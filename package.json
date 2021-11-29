@@ -1,0 +1,19 @@
+{
+  "name": "nudity-detect",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "Seanghay Yath <seanghay.dev@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@tensorflow/tfjs-node": "^3.11.0",
+    "express": "^4.17.1",
+    "jpeg-js": "^0.3.7",
+    "multer": "^1.4.3",
+    "nsfwjs": "^2.4.1"
+  }
+}
