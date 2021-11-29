@@ -4,8 +4,17 @@ A Docker image with [nsfwjs](https://github.com/infinitered/nsfwjs), TensorFlow.
 
 ## Run the server
 
+1. Using Docker Container
+
+
 ```sh
 docker run -it --rm -p "8080:8080" ghcr.io/seanghay/nsfwjs-server:latest
+```
+
+2. Using Docker Compose
+
+```sh
+docker-compose up -d
 ```
 
 ### Request
