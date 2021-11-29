@@ -35,11 +35,11 @@ curl --request POST http://localhost:8080/ \
     "probability": 0.0067122685723006725
   },
   {
-    "className": "Porn",
+    "className": "P*rn",
     "probability": 0.001053938060067594
   },
   {
-    "className": "Hentai",
+    "className": "H*ntai",
     "probability": 0.000872117409016937
   }
 ]
