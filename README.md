@@ -1,6 +1,6 @@
 # NSFW detection
 
-An image with [nsfwjs](https://github.com/infinitered/nsfwjs), TensorFlow.js and Express server.
+A Docker image with [nsfwjs](https://github.com/infinitered/nsfwjs), TensorFlow.js and Express server.
 
 ## Run the server
 
